@@ -3,3 +3,22 @@
     color: white;
     background-color: black;
 }
+
+h1 {
+    background-color: gray;
+    text-align: center;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    width: 50%;
+    height: auto;
+}
+
+.image-caption {
+    text-align: center;
+}
