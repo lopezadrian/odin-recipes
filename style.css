@@ -4,19 +4,9 @@
     background-color: black;
 }
 
-h1 {
-    background-color: gray;
-    text-align: center;
-}
-
-div {
+.meal-picture {
     display: flex;
     justify-content: center;
-}
-
-img {
-    width: 60%;
-    height: auto;
 }
 
 .image-caption {
